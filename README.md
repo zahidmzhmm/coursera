@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-© 2024 Zahid, Inc
+© 2024 Md Zahid Hasan
